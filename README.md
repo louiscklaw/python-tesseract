@@ -7,9 +7,8 @@
 - `sudo apt install -qqy imagemagick`
 
 ### on python
-- `pipenv`
-- `pipenv install pdf2image`
-- `pipenv install pytesseract`
+- `pipenv --two`
+- `pipenv install`
 
 # To run
 ### currently hardcoded for **POC DEMO** only
